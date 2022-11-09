@@ -1,2 +1,5 @@
 venv
 db.sqlite3
+hello.md
+__pycache__/
+migrations/
